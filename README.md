@@ -1,2 +1,11 @@
-# PHTA
-Study material for everything related to my Physical Therapy Assistant program
+# PHTA Course Materials
+
+Physical Therapy Assistant program study materials.
+
+## Contents
+
+- 
+
+## Notes
+
+-
