@@ -2,9 +2,13 @@
 
 ## Flexion
 - **Prime movers:** Anterior Deltoid, Pectoralis Major
+- **Gravity required:** Sitting, lift arm up into flexion
+- **Gravity eliminated:** Side-lying
 
 ## Extension
 - **Prime movers:** Latissimus Dorsi, Posterior Deltoid, Teres Major
+- **Gravity required:** Prone
+- **Gravity eliminated:** Side-lying
 
 ## Internal Rotation
 - **Prime movers:** Subscapularis, Pec Major, Latissimus Dorsi, Anterior Deltoid, Teres Major
