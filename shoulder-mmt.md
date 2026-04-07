@@ -24,3 +24,12 @@
 - **Prime movers:** Latissimus Dorsi, Pectoralis Major, Teres Major
 - **Gravity required:** Side-lying on testing arm, lift up/adduct across body
 - **Gravity eliminated:** Sitting
+
+## Abduction
+- **Prime movers:** Middle Deltoid, Supraspinatus
+
+## Horizontal Adduction
+- **Prime movers:** Pectoralis Major, Anterior Deltoid
+
+## Horizontal Abduction
+- **Prime movers:** Posterior Deltoid, Infraspinatus, Teres Minor
