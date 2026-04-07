@@ -137,3 +137,77 @@
 
 - **Flexion:** Biceps Brachii, Brachialis, Brachioradialis
 - **Extension:** Triceps Brachii, Anconeus
+
+---
+
+# Key Muscle Attachments
+
+## Rotator Cuff (SITS)
+
+| Muscle | Origin | Insertion |
+|--------|--------|-----------|
+| **Supraspinatus** | Supraspinous fossa | Greater tubercle |
+| **Infraspinatus** | Infraspinous fossa | Greater tubercle |
+| **Teres Minor** | Lateral border scapula | Greater tubercle |
+| **Subscapularis** | Subscapular fossa | Lesser tubercle |
+
+> All insert on humerus — scapula → humerus
+
+## Other Important GH Muscles
+
+| Muscle | Origin | Insertion |
+|--------|--------|-----------|
+| **Deltoid** | Clavicle + acromion + spine | Deltoid tuberosity |
+| **Pectoralis Major** | Clavicle + sternum | Lateral lip of bicipital groove |
+| **Latissimus Dorsi** | Thoracolumbar fascia | Floor of bicipital groove |
+| **Teres Major** | Inferior angle scapula | Medial lip of groove |
+
+> Everything inserts around the bicipital groove
+
+## Elbow Flexors (Anterior)
+
+| Muscle | Origin | Insertion |
+|--------|--------|-----------|
+| **Biceps Brachii** | Coracoid + supraglenoid | Radial tuberosity |
+| **Brachialis** | Anterior humerus | Coronoid process |
+| **Brachioradialis** | Lateral humerus | Distal radius |
+
+## Elbow Extensors (Posterior)
+
+| Muscle | Origin | Insertion |
+|--------|--------|-----------|
+| **Triceps Brachii** | Infraglenoid + humerus | Olecranon |
+
+## Forearm Muscles — THE PATTERN
+
+**🔥 Key Insight:**
+- **Flexors** → originate from **MEDIAL EPICONDYLE**
+- **Extensors** → originate from **LATERAL EPICONDYLE**
+
+### Wrist Flexors (all from medial epicondyle)
+- Flexor Carpi Radialis → base 2nd metacarpal
+- Flexor Carpi Ulnaris → pisiform
+- Palmaris Longus → palmar aponeurosis
+
+### Wrist Extensors (all from lateral epicondyle)
+- Extensor Carpi Radialis Longus → 2nd metacarpal
+- Extensor Carpi Ulnaris → 5th metacarpal
+
+## Hand — General Patterns
+
+- **Thenar** (thumb): From carpals → thumb
+- **Hypothenar** (pinky): From carpals → 5th digit
+- **Lumbricals**: From tendons → extensor hood
+- **Interossei**: Between metacarpals
+
+---
+
+# How to Memorize Fast
+
+🔑 **Patterns:**
+- Rotator cuff → scapula → humerus
+- Flexors → medial epicondyle
+- Extensors → lateral epicondyle
+- Big GH muscles → bicipital groove
+- Elbow flexors → radius/ulna anterior
+- Elbow extensors → olecranon
