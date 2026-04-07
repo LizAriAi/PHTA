@@ -27,9 +27,15 @@
 
 ## Abduction
 - **Prime movers:** Middle Deltoid, Supraspinatus
+- **Gravity required:** Sitting, lift arm out into abduction
+- **Gravity eliminated:** Side-lying
 
 ## Horizontal Adduction
 - **Prime movers:** Pectoralis Major, Anterior Deltoid
+- **Gravity required:** Prone, arm at 90° abduction, off table
+- **Gravity eliminated:** Sitting, PTA supports arm
 
 ## Horizontal Abduction
 - **Prime movers:** Posterior Deltoid, Infraspinatus, Teres Minor
+- **Gravity required:** Prone, arm at 90° abduction, off table
+- **Gravity eliminated:** Sitting, PTA supports arm
