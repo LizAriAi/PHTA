@@ -51,3 +51,23 @@
 
 - Caused by: Increased pressure in muscle compartment → cuts off blood flow
 - Emergency! Needs immediate treatment
+
+---
+
+## Median Nerve (Hand/Thumb)
+
+| Structure | Innervation |
+|-----------|-------------|
+| **Thenar muscles** (thumb) | Median nerve |
+| - Abductor Pollicis Brevis (APB) | ✅ |
+| - Flexor Pollicis Brevis (FPB) | ✅ |
+| - Opponens Pollicis | ✅ |
+| **Lumbricals 1 & 2** | Median nerve |
+| **Adductor Pollicis** | ❌ (ulnar nerve) |
+
+**What it does:**
+- Thumb **opposition** (the "OK sign")
+- Thumb **abduction** & **flexion**
+- Fine motor control of first 2 fingers
+
+**Test:** Median nerve function → make an "OK sign" (thumb touches pinky base)
