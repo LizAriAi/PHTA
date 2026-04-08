@@ -202,6 +202,18 @@
 
 ---
 
+# Capsular Pattern (GH Joint)
+
+Order of restriction (most restricted → least restricted):
+
+1. **External Rotation** (most restricted)
+2. **Abduction**
+3. **Internal Rotation** (least restricted)
+
+Seen in: Adhesive capsulitis (frozen shoulder)
+
+---
+
 # How to Memorize Fast
 
 🔑 **Patterns:**
