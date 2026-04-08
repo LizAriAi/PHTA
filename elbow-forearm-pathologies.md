@@ -34,3 +34,20 @@
 - **Tendon affected:** Flexor Carpi Radialis / Pronator Teres (common flexor origin)
 - **Location:** Medial elbow
 - **Main symptom:** Medial elbow pain with wrist flexion, gripping, pronation
+
+---
+
+## Volkmann's Ischemic Contracture (Compartment Syndrome)
+
+**5 P's of Compartment Syndrome:**
+
+| P | Meaning |
+|---|---------|
+| **Pain** | Severe, disproportionate to injury |
+| **Pallor** | Pale/white skin |
+| **Pulselessness** | No pulse distal to injury |
+| **Paresthesia** | Numbness/tingling |
+| **Paralysis** | Loss of motor function (late sign!) |
+
+- Caused by: Increased pressure in muscle compartment → cuts off blood flow
+- Emergency! Needs immediate treatment
